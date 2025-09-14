@@ -4,17 +4,17 @@
       "password": "Chap1@pass",
       "type": "images",
       "images": [
-        "https://github.com/Atharva-Meshram/GuitarApp/blob/main/Chapter1/guitar1.jpg",
-        "https://github.com/Atharva-Meshram/GuitarApp/blob/main/Chapter1/guitar2.jpg",
-        "https://github.com/Atharva-Meshram/GuitarApp/blob/main/Chapter1/guitar3.jpg",
-        "https://github.com/Atharva-Meshram/GuitarApp/blob/main/Chapter1/guitar4.jpg"
+        "https://raw.githubusercontent.com/Atharva-Meshram/GuitarApp/main/Chapter1/guitar1.jpg",
+        "https://raw.githubusercontent.com/Atharva-Meshram/GuitarApp/main/Chapter1/guitar2.jpg",
+        "https://raw.githubusercontent.com/Atharva-Meshram/GuitarApp/main/Chapter1/guitar3.jpg",
+        "https://raw.githubusercontent.com/Atharva-Meshram/GuitarApp/main/Chapter1/guitar4.jpg"
       ]
     },
     "Chap2": {
       "password": "Chap2@pass",
       "type": "images",
       "images": [
-        "https://github.com/Atharva-Meshram/GuitarApp/blob/main/Chapter1/guitar3.jpg"
+        "https://raw.githubusercontent.com/Atharva-Meshram/GuitarApp/main/Chapter1/guitar3.jpg"
       ]
     },
     "Chap3": {
@@ -26,3 +26,4 @@
     }
   }
 }
+
