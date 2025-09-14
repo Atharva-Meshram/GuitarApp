@@ -22,8 +22,9 @@
       "type": "video",
       "videoUrl": "https://youtu.be/tmf65QgsyRQ",
       "tabsFile": "https://github.com/Atharva-Meshram/GuitarApp/blob/main/Chapter3/Happy%20birthday%20on%20C%20Major%20Scale.png",
-      "syncFile": "https://github.com/Atharva-Meshram/GuitarApp/blob/main/Chapter3/chap3_sync.json"
+      "syncFile": "https://raw.githubusercontent.com/Atharva-Meshram/GuitarApp/refs/heads/main/Chapter3/chap3_sync.json"
     }
   }
 }
+
 
