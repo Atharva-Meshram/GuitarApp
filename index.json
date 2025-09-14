@@ -20,12 +20,13 @@
     "Chap3": {
       "password": "Chap3@pass",
       "type": "video",
-      "videoUrl": "https://youtu.be/tmf65QgsyRQ",
+      "videoUrl": "https://www.youtube.com/watch?v=sQEgklEwhSo&list=RDsQEgklEwhSo&start_radio=1",
       "tabsFile": "https://raw.githubusercontent.com/Atharva-Meshram/GuitarApp/main/Chapter3/Happy%20birthday%20on%20C%20Major%20Scale.png",
       "syncFile": "https://raw.githubusercontent.com/Atharva-Meshram/GuitarApp/refs/heads/main/Chapter3/chap3_sync.json"
     }
   }
 }
+
 
 
 
