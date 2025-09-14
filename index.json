@@ -1,0 +1,28 @@
+{
+  "chapters": {
+    "Chap1": {
+      "password": "Chap1@pass",
+      "type": "images",
+      "images": [
+        "https://github.com/Atharva-Meshram/GuitarApp/blob/main/Chapter1/guitar1.jpg",
+        "https://github.com/Atharva-Meshram/GuitarApp/blob/main/Chapter1/guitar2.jpg",
+        "https://github.com/Atharva-Meshram/GuitarApp/blob/main/Chapter1/guitar3.jpg",
+        "https://github.com/Atharva-Meshram/GuitarApp/blob/main/Chapter1/guitar4.jpg"
+      ]
+    },
+    "Chap2": {
+      "password": "Chap2@pass",
+      "type": "images",
+      "images": [
+        "https://github.com/Atharva-Meshram/GuitarApp/blob/main/Chapter1/guitar3.jpg"
+      ]
+    },
+    "Chap3": {
+      "password": "Chap3@pass",
+      "type": "video",
+      "videoUrl": "https://youtu.be/tmf65QgsyRQ",
+      "tabsFile": "https://github.com/Atharva-Meshram/GuitarApp/blob/main/Chapter3/Happy%20birthday%20on%20C%20Major%20Scale.png",
+      "syncFile": "https://github.com/Atharva-Meshram/GuitarApp/blob/main/Chapter3/chap3_sync.json"
+    }
+  }
+}
